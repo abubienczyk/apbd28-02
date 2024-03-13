@@ -9,5 +9,6 @@ Console.WriteLine("Modyfikacja 4");
 Console.WriteLine("przyjmij tablice");
 
 Console.WriteLine("przyjmij tablice int");
+
 Console.WriteLine("zmiana nazwy w main");
 
